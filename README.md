@@ -8,7 +8,7 @@ Questo progetto esplora come gli algoritmi di apprendimento non supervisionato p
 
 Poiché il dataset originale presenta 30 dimensioni, è stata applicata la **PCA (Principal Component Analysis)** per proiettare i dati in uno spazio 2D, facilitando la visualizzazione e riducendo il rumore.
 
-![Immagine](images\clustering_comparison.png)
+!(./images/clustering_comparition.png)
 
 ## Analisi dei Risultati
 
@@ -31,3 +31,4 @@ Al contrario, **K-Means** ha forzato una partizione del dataset che riflette meg
 1. Clona il repository.
 2. Installa le dipendenze: `pip install scikit-learn matplotlib numpy`.
 3. Lancia lo script: `python main.py`.
+
